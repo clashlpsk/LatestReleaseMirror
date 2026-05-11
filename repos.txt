@@ -3,4 +3,4 @@
 # Format: owner/repo|filter1|filter2|...
 # Filters are case‑insensitive regular expressions (grep -E).
 
-anonvector/SlipNet|SlipNet-v2.5.3-full-release-arm64-v8a.apk
+iampedii/WhiteDNS

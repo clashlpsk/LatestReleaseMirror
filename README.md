@@ -157,13 +157,24 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="anonvector--slipnet"></div>
+<div id="iampedii--whitedns"></div>
 
-### anonvector--SlipNet
+### iampedii--WhiteDNS
 
-🔗 [source](https://github.com/anonvector/SlipNet) – [<code><small>v2.5.3</small></code>](https://github.com/anonvector/SlipNet/releases/tag/v2.5.3)
+🔗 [source](https://github.com/iampedii/WhiteDNS) – [<code><small>1.1.0</small></code>](https://github.com/iampedii/WhiteDNS/releases/tag/1.1.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `SlipNet-v2.5.3-full-release-arm64-v8a.apk` | 25.6 MB | [⬇️ Download](https://raw.githubusercontent.com/clashlpsk/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-full-release-arm64-v8a.apk) |
+| `SHA256SUMS.txt` | 1 KB | [⬇️ Download](https://raw.githubusercontent.com/clashlpsk/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/SHA256SUMS.txt) |
+| `WhiteDNS-1.1.0-THIRD_PARTY_NOTICES.md` | 3 KB | [⬇️ Download](https://raw.githubusercontent.com/clashlpsk/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-THIRD_PARTY_NOTICES.md) |
+| `WhiteDNS-1.1.0-arm64-v8a.apk` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/clashlpsk/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-arm64-v8a.apk) |
+| `WhiteDNS-1.1.0-arm64-v8a.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/clashlpsk/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-arm64-v8a.apk.idsig) |
+| `WhiteDNS-1.1.0-armeabi-v7a.apk` | 4.9 MB | [⬇️ Download](https://raw.githubusercontent.com/clashlpsk/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-armeabi-v7a.apk) |
+| `WhiteDNS-1.1.0-armeabi-v7a.apk.idsig` | 46 KB | [⬇️ Download](https://raw.githubusercontent.com/clashlpsk/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-armeabi-v7a.apk.idsig) |
+| `WhiteDNS-1.1.0-universal.apk` | 16.2 MB | [⬇️ Download](https://raw.githubusercontent.com/clashlpsk/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-universal.apk) |
+| `WhiteDNS-1.1.0-universal.apk.idsig` | 138 KB | [⬇️ Download](https://raw.githubusercontent.com/clashlpsk/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-universal.apk.idsig) |
+| `WhiteDNS-1.1.0-x86.apk` | 5.5 MB | [⬇️ Download](https://raw.githubusercontent.com/clashlpsk/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-x86.apk) |
+| `WhiteDNS-1.1.0-x86.apk.idsig` | 54 KB | [⬇️ Download](https://raw.githubusercontent.com/clashlpsk/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-x86.apk.idsig) |
+| `WhiteDNS-1.1.0-x86_64.apk` | 5.3 MB | [⬇️ Download](https://raw.githubusercontent.com/clashlpsk/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-x86_64.apk) |
+| `WhiteDNS-1.1.0-x86_64.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/clashlpsk/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-x86_64.apk.idsig) |
 <!-- RELEASES_END -->
